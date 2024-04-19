@@ -43,6 +43,8 @@ gem 'will_paginate'
 # Reduces boot times through caching; required in config/boot.rb
 gem "bootsnap", require: false
 
+gem 'rack-cors'
+
 gem 'pg', '~> 1.4', '>= 1.4.3'
 
 # Use Sass to process CSS
